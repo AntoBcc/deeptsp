@@ -5,7 +5,7 @@ First part of research thesis - MSc DSBA
 Implementation of a belief propagation algorithm for minimum-weight perfect 2-matching, in order to use the resulting approximation within a *graph neural network* to solve the TSP. 
 
 Convergence diagnostics and overlap with the TSP solutions available in `test/`.
-Data generated using the **Concorde TSP solver**, using [this script](https://github.com/CarloLucibello/benchmarking-gnns/blob/ab/dev/data/TSP/generate_TSP.py).
+Data generated using the **Concorde TSP solver**, using [this script](https://github.com/AntoBcc/benchmarking-gnns/blob/master/data/TSP/generate_TSP.py).
 
 
 ## Instructions
